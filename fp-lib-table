@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SofleChoc")(type "KiCad")(uri "${KIPRJMOD}/SofleChoc.pretty")(options "")(descr ""))
+)
